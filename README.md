@@ -19,7 +19,7 @@ Para autenticar as requisições da API, obtenha um token de acesso utilizando `
 Content-Type: application/json
 ```
 
-**Corpo**:
+**Body**:
 ```json
 {
   "client_id": "e064bdcc-3f9f-40a4-9745-997b369b2",
