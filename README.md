@@ -129,6 +129,13 @@ Necessário estar autenticado. Para consultar uma transação específica ou um 
   ]
 }
 ```
+Possíveis status:
+
+pending - transação pendente
+liquidated - Transação paga pelo sub-client
+paid - Transação paga pelo sub-client e pixou realizado com sucesso ao client
+completed - Transação finalizada ( Não utilizada no momento )
+rejected - Transação rejeitada
 
 ## Tratamento de Erros
 
